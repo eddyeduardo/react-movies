@@ -1,9 +1,13 @@
 .movieCard{
-    color: azure;
+    color: white;
     list-style: none;
     font-size: 1rem;
     font-family: arial,sans-serif;
     text-align: center;
+    text-decoration: none;
+}
+.movieCard div{
+    color: white;
 }
 
 .movieCard:hover{
@@ -11,7 +15,7 @@
 }
 
 .movieImage{
-    border-radius: 3%;
+    border-radius: 4%;
     background-color: azure;
 }
 
